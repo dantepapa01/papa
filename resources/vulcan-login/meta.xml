@@ -1,0 +1,31 @@
+<meta>
+
+ 	<script src="login_s.lua" type="server" />
+	<script src="login_c.lua" type="client" cache="false" />
+
+	<file src="assets/images/logo.png" />
+	<file src="assets/images/round.png" />
+	<file src="assets/images/lights.png" />
+
+	<file src="assets/sounds/itsOk.mp3" />
+
+	<file src="assets/fonts/light.ttf" />
+	<file src="assets/fonts/regular.ttf" />
+
+	<file src="assets/images/buttonOff.png" />
+	<file src="assets/images/buttonOff-2.png" />
+	<file src="assets/images/buttonOn.png" />
+	<file src="assets/images/buttonOn-2.png" />
+
+	<file src="assets/images/wallpaper.png" />
+
+	<file src="assets/images/circleOff.png" />
+	<file src="assets/images/circleOn.png" />
+	<file src="assets/images/success.png" />
+
+	<file src="assets/images/logo_max.png" />
+
+	<file src="assets/images/arrow.png" />
+	<file src="assets/images/arrow-2.png" />
+ 
+</meta>
